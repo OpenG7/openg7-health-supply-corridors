@@ -1,6 +1,6 @@
 # OpenG7 Health Supply Corridors
 
-![OpenG7 Health Supply Corridors](assets/banner-openg7-health-supply-corridors.png)
+![OpenG7 Health Supply Corridors](assets/openg7-health-supply-corridors.png)
 
 Open-source platform for mapping critical medical supplies, distribution dependencies, and health system supply corridors.
 
